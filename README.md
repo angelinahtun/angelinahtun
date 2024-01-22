@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I'm Angelina.
-- 📚 I have a deep passion for reading.
+- 📚 I have a deep passion for reading, journalling and sketching.
 - 💻 Currently diving into the fascinating world of Computer Science.
+- Pronouns: She, her
 <!-- 
 **angelinahtun/angelinahtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
